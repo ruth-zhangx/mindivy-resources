@@ -1,0 +1,17 @@
+{
+  "agent_id": "english",
+  "updated_at": "2026-07-26",
+  "packs": [
+    {
+      "id": "graded_readers",
+      "name": "分级读物",
+      "name_en": "Graded Readers",
+      "description": "Aesop's Fables and educational articles at A1-B1 levels",
+      "download_url": "graded-readers-v1.zip",
+      "size_mb": 0.01,
+      "entry_count": 12,
+      "levels": ["A1", "A2", "B1"],
+      "version": "1.0"
+    }
+  ]
+}

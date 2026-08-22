@@ -1,0 +1,100 @@
+{
+  "agent_id": "python",
+  "updated_at": "2026-08-06",
+  "packs": [
+    {
+      "id": "python_foundations",
+      "name": "Python 基础",
+      "name_en": "Python Foundations",
+      "description": "10 Python learning files covering CLI tools, data analysis, web scraping, decorators, generators, context managers, testing, and type checking.",
+      "download_url": "python-foundations-v1.zip",
+      "size_mb": 0.04,
+      "entry_count": 10,
+      "levels": ["Novice", "Intermediate"],
+      "version": "1.0",
+      "file_extensions": [".py"]
+    }
+  ],
+  "files": [
+    {
+      "id": "py_todo_cli",
+      "title": "TODO CLI — 命令行待办事项",
+      "level": "Novice",
+      "topics": ["functions", "dict", "file-io", "argparse"],
+      "description": "一个简单的命令行待办事项工具，涵盖函数定义、字典操作、文件读写和命令行参数解析。",
+      "filename": "todo_cli.py"
+    },
+    {
+      "id": "py_url_shortener",
+      "title": "URL Shortener — 短链接服务",
+      "level": "Novice",
+      "topics": ["dict", "hash", "http.server"],
+      "description": "使用 Python 内置库构建一个简单的短链接服务，学习字典映射、哈希和 HTTP 服务器。",
+      "filename": "url_shortener.py"
+    },
+    {
+      "id": "py_markdown_preview",
+      "title": "Markdown Preview — 实时预览工具",
+      "level": "Novice",
+      "topics": ["strings", "filesystem", "libraries"],
+      "description": "将 Markdown 文件转换为 HTML 预览，学习字符串处理、文件系统和第三方库的使用。",
+      "filename": "markdown_preview.py"
+    },
+    {
+      "id": "py_csv_analyzer",
+      "title": "CSV Analyzer — 数据分析脚本",
+      "level": "Novice",
+      "topics": ["data-processing", "statistics", "csv"],
+      "description": "读取 CSV 文件并进行基本统计分析（平均值、中位数、最值），学习数据处理基础。",
+      "filename": "csv_analyzer.py"
+    },
+    {
+      "id": "py_web_scraper",
+      "title": "Web Scraper — 网页抓取工具",
+      "level": "Novice",
+      "topics": ["requests", "BeautifulSoup", "error-handling"],
+      "description": "抓取网页内容并提取结构化信息，学习 HTTP 请求、HTML 解析和异常处理。",
+      "filename": "web_scraper.py"
+    },
+    {
+      "id": "py_decorator_library",
+      "title": "Decorator Library — 装饰器工具箱",
+      "level": "Intermediate",
+      "topics": ["decorators", "functools", "closures"],
+      "description": "一组实用装饰器（计时、重试、缓存、权限检查），学习装饰器的原理和 functools。",
+      "filename": "decorator_library.py"
+    },
+    {
+      "id": "py_generator_utils",
+      "title": "Generator Utils — 生成器工具集",
+      "level": "Intermediate",
+      "topics": ["generators", "itertools", "lazy-evaluation"],
+      "description": "自定义生成器函数和 itertools 实战，学习惰性求值和内存高效的数据处理。",
+      "filename": "generator_utils.py"
+    },
+    {
+      "id": "py_context_managers",
+      "title": "Context Managers — 上下文管理器",
+      "level": "Intermediate",
+      "topics": ["context-managers", "resource-management"],
+      "description": "自定义上下文管理器的三种实现方式（class-based、contextlib、decorator），学习资源管理。",
+      "filename": "context_managers.py"
+    },
+    {
+      "id": "py_testing_guide",
+      "title": "Testing Guide — 测试入门到实践",
+      "level": "Intermediate",
+      "topics": ["pytest", "fixtures", "mocking"],
+      "description": "从零学习 pytest：编写测试、使用 fixture、mock 外部依赖、参数化测试。",
+      "filename": "testing_guide.py"
+    },
+    {
+      "id": "py_type_checking",
+      "title": "Type Checking — 类型标注实战",
+      "level": "Intermediate",
+      "topics": ["type-hints", "Protocol", "Generic"],
+      "description": "Python 类型标注全解：基本类型、Optional、Union、Protocol、Generic，配合 mypy 使用。",
+      "filename": "type_checking.py"
+    }
+  ]
+}
