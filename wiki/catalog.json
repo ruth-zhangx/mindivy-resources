@@ -1,0 +1,45 @@
+{
+  "agent_id": "wiki",
+  "updated_at": "2026-08-26",
+  "packs": [
+    {
+      "id": "simplewiki_starter",
+      "name": "Simple Wiki 入门精选",
+      "name_en": "Simple Wiki Starter",
+      "description": "Top 5000 Simple English Wikipedia articles (2026-08-01 dump), selected by internal wikilink outdegree",
+      "download_url": "simplewiki-starter-v1.zip",
+      "size_mb": 24.64,
+      "entry_count": 5000,
+      "levels": [
+        "_",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q",
+        "r",
+        "s",
+        "t",
+        "u",
+        "v",
+        "w",
+        "x",
+        "y",
+        "z"
+      ],
+      "version": "1.0"
+    }
+  ]
+}
