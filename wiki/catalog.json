@@ -39,7 +39,11 @@
         "y",
         "z"
       ],
-      "version": "1.0"
+      "version": "1.0",
+      "platform_download_urls": {
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/simplewiki-starter-v1.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-simplewiki-starter-v1/simplewiki-starter-v1.zip"
+      }
     }
   ]
 }
