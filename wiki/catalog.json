@@ -51,7 +51,7 @@
       "name_en": "Simple Wiki Dictionary (Essential)",
       "description": "Essential English dictionary data for local word lookup — NGSL+NAWL high-frequency word forms, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org)",
       "download_url": "simplewiki-dict-essential-v1.zip",
-      "size_mb": 3.83,
+      "size_mb": 2.81,
       "entry_count": 10680,
       "levels": [],
       "version": "1.0",
@@ -59,6 +59,38 @@
       "platform_download_urls": {
         "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/simplewiki-dict-essential-v1.zip",
         "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/raw/main/wiki/simplewiki-dict-essential-v1.zip"
+      }
+    },
+    {
+      "id": "enwiktionary_dict_advanced",
+      "name": "英维词典精选（进阶）",
+      "name_en": "English Wiktionary Dictionary (Advanced)",
+      "description": "Advanced English dictionary data for local word lookup — 512,250 quality-filtered word forms (sound or etymology attested), pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org)",
+      "download_url": "enwiktionary-dict-advanced-v1.zip",
+      "size_mb": 40.68,
+      "entry_count": 512250,
+      "levels": [],
+      "version": "1.0",
+      "pack_kind": "dictionary",
+      "platform_download_urls": {
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/enwiktionary-dict-advanced-v1.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-enwiktionary-dict-advanced-v1/enwiktionary-dict-advanced-v1.zip"
+      }
+    },
+    {
+      "id": "enwiktionary_dict_full",
+      "name": "英维词典精选（完整）",
+      "name_en": "English Wiktionary Dictionary (Full)",
+      "description": "Complete English dictionary data for local word lookup — 1,350,835 entries covering the full English Wiktionary word forms, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org)",
+      "download_url": "enwiktionary-dict-full-v1.zip",
+      "size_mb": 59.98,
+      "entry_count": 1350835,
+      "levels": [],
+      "version": "1.0",
+      "pack_kind": "dictionary",
+      "platform_download_urls": {
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/enwiktionary-dict-full-v1.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-enwiktionary-dict-full-v1/enwiktionary-dict-full-v1.zip"
       }
     }
   ]
