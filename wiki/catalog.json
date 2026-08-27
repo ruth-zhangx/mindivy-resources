@@ -1,6 +1,6 @@
 {
   "agent_id": "wiki",
-  "updated_at": "2026-08-26",
+  "updated_at": "2026-08-27",
   "packs": [
     {
       "id": "simplewiki_starter",
@@ -43,6 +43,22 @@
       "platform_download_urls": {
         "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/simplewiki-starter-v1.zip",
         "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-simplewiki-starter-v1/simplewiki-starter-v1.zip"
+      }
+    },
+    {
+      "id": "simplewiki_dict_essential",
+      "name": "Simple Wiki 词典精选（基础）",
+      "name_en": "Simple Wiki Dictionary (Essential)",
+      "description": "Essential English dictionary data for local word lookup — NGSL+NAWL high-frequency word forms, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org)",
+      "download_url": "simplewiki-dict-essential-v1.zip",
+      "size_mb": 4.01,
+      "entry_count": 23072,
+      "levels": [],
+      "version": "1.0",
+      "pack_kind": "dictionary",
+      "platform_download_urls": {
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/simplewiki-dict-essential-v1.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/raw/main/wiki/simplewiki-dict-essential-v1.zip"
       }
     }
   ]
