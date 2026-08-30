@@ -1,6 +1,6 @@
 {
   "agent_id": "wiki",
-  "updated_at": "2026-08-28",
+  "updated_at": "2026-08-30",
   "packs": [
     {
       "id": "simplewiki_starter",
@@ -47,50 +47,50 @@
     },
     {
       "id": "simplewiki_dict_essential",
-      "name": "Simple Wiki 词典精选（基础）",
+      "name": "英维词典精选（基础）",
       "name_en": "Simple Wiki Dictionary (Essential)",
-      "description": "Essential English dictionary data for local word lookup — NGSL+NAWL high-frequency word forms, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org)",
-      "download_url": "simplewiki-dict-essential-v2.zip",
-      "size_mb": 2.85,
+      "description": "Essential English dictionary data for local word lookup — NGSL+NAWL high-frequency word forms with Chinese translations, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org)",
+      "download_url": "enwiktionary-dict-essential-v3.zip",
+      "size_mb": 2.15,
       "entry_count": 10680,
       "levels": [],
-      "version": "2.0",
+      "version": "3.0",
       "pack_kind": "dictionary",
       "platform_download_urls": {
-        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/simplewiki-dict-essential-v2.zip",
-        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/raw/main/wiki/simplewiki-dict-essential-v2.zip"
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/enwiktionary-dict-essential-v3.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/raw/main/wiki/enwiktionary-dict-essential-v3.zip"
       }
     },
     {
       "id": "enwiktionary_dict_advanced",
       "name": "英维词典精选（进阶）",
       "name_en": "English Wiktionary Dictionary (Advanced)",
-      "description": "Advanced English dictionary data for local word lookup — 512,250 quality-filtered word forms (sound or etymology attested), pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org)",
-      "download_url": "enwiktionary-dict-advanced-v2.zip",
-      "size_mb": 41.37,
-      "entry_count": 512250,
+      "description": "Advanced English dictionary data for local word lookup — 512,249 quality-filtered word forms (sound or etymology attested) with Chinese translations, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org)",
+      "download_url": "enwiktionary-dict-advanced-v3.zip",
+      "size_mb": 41.46,
+      "entry_count": 512249,
       "levels": [],
-      "version": "2.0",
+      "version": "3.0",
       "pack_kind": "dictionary",
       "platform_download_urls": {
-        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/enwiktionary-dict-advanced-v2.zip",
-        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-enwiktionary-dict-advanced-v2/enwiktionary-dict-advanced-v2.zip"
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/enwiktionary-dict-advanced-v3.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-enwiktionary-dict-advanced-v3/enwiktionary-dict-advanced-v3.zip"
       }
     },
     {
       "id": "enwiktionary_dict_full",
       "name": "英维词典精选（完整）",
       "name_en": "English Wiktionary Dictionary (Full)",
-      "description": "Complete English dictionary data for local word lookup — 1,350,835 entries covering the full English Wiktionary word forms, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org)",
-      "download_url": "enwiktionary-dict-full-v2.zip",
-      "size_mb": 61.22,
-      "entry_count": 1350835,
+      "description": "Complete English dictionary data for local word lookup — 1,350,834 entries covering the full English Wiktionary word forms with Chinese translations, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org)",
+      "download_url": "enwiktionary-dict-full-v3.zip",
+      "size_mb": 61.32,
+      "entry_count": 1350834,
       "levels": [],
-      "version": "2.0",
+      "version": "3.0",
       "pack_kind": "dictionary",
       "platform_download_urls": {
-        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/enwiktionary-dict-full-v2.zip",
-        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-enwiktionary-dict-full-v2/enwiktionary-dict-full-v2.zip"
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/enwiktionary-dict-full-v3.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-enwiktionary-dict-full-v3/enwiktionary-dict-full-v3.zip"
       }
     }
   ]
