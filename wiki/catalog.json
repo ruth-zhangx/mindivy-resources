@@ -1,50 +1,7 @@
 {
   "agent_id": "wiki",
-  "updated_at": "2026-08-30",
+  "updated_at": "2026-08-31",
   "packs": [
-    {
-      "id": "simplewiki_starter",
-      "name": "Simple Wiki 入门精选",
-      "name_en": "Simple Wiki Starter",
-      "description": "Top 5000 Simple English Wikipedia articles (2026-08-01 dump), selected by internal wikilink outdegree",
-      "download_url": "simplewiki-starter-v1.zip",
-      "size_mb": 24.64,
-      "entry_count": 5000,
-      "levels": [
-        "_",
-        "a",
-        "b",
-        "c",
-        "d",
-        "e",
-        "f",
-        "g",
-        "h",
-        "i",
-        "j",
-        "k",
-        "l",
-        "m",
-        "n",
-        "o",
-        "p",
-        "q",
-        "r",
-        "s",
-        "t",
-        "u",
-        "v",
-        "w",
-        "x",
-        "y",
-        "z"
-      ],
-      "version": "1.0",
-      "platform_download_urls": {
-        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/simplewiki-starter-v1.zip",
-        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-simplewiki-starter-v1/simplewiki-starter-v1.zip"
-      }
-    },
     {
       "id": "simplewiki_dict_essential",
       "name": "英维词典精选（基础）",
@@ -91,6 +48,36 @@
       "platform_download_urls": {
         "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/enwiktionary-dict-full-v3.zip",
         "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-enwiktionary-dict-full-v3/enwiktionary-dict-full-v3.zip"
+      }
+    },
+    {
+      "id": "simplewiki_starter",
+      "name": "Simple Wiki 入门精选",
+      "name_en": "Simple Wiki Starter",
+      "description": "Top 5000 Simple English Wikipedia articles (2026-08-01 dump), selected by internal wikilink outdegree",
+      "download_url": "simplewiki-starter-v2.zip",
+      "size_mb": 24.75,
+      "entry_count": 5000,
+      "levels": [
+        "Arts & Culture",
+        "Food",
+        "History",
+        "Language",
+        "Lists",
+        "Nature",
+        "Other",
+        "People",
+        "Places",
+        "Science",
+        "Society",
+        "Sports",
+        "Technology",
+        "Time"
+      ],
+      "version": "2.0",
+      "platform_download_urls": {
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/wiki/simplewiki-starter-v2.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-simplewiki-starter-v2/simplewiki-starter-v2.zip"
       }
     }
   ]
