@@ -1,0 +1,54 @@
+{
+  "agent_id": "wiki",
+  "updated_at": "2026-09-01",
+  "packs": [
+    {
+      "id": "simplewiki_dict_essential",
+      "name": "英维词典精选（基础）",
+      "name_en": "Simple Wiki Dictionary (Essential)",
+      "description": "Essential English dictionary data for local word lookup — 6,780 NGSL+NAWL lemma entries with Chinese translations, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org). v4: inflection-only entries removed; inflected forms resolve to their lemma or fall back to AI",
+      "download_url": "enwiktionary-dict-essential-v4.zip",
+      "size_mb": 2.06,
+      "entry_count": 6780,
+      "levels": [],
+      "version": "4.0",
+      "pack_kind": "dictionary",
+      "platform_download_urls": {
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/dictionary/enwiktionary-dict-essential-v4.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/raw/main/dictionary/enwiktionary-dict-essential-v4.zip"
+      }
+    },
+    {
+      "id": "enwiktionary_dict_advanced",
+      "name": "英维词典精选（进阶）",
+      "name_en": "English Wiktionary Dictionary (Advanced)",
+      "description": "Advanced English dictionary data for local word lookup — 497,872 quality-filtered lemma entries (sound or etymology attested) with Chinese translations, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org). v4: inflection-only entries removed; inflected forms resolve to their lemma or fall back to AI",
+      "download_url": "enwiktionary-dict-advanced-v4.zip",
+      "size_mb": 40.98,
+      "entry_count": 497872,
+      "levels": [],
+      "version": "4.0",
+      "pack_kind": "dictionary",
+      "platform_download_urls": {
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/dictionary/enwiktionary-dict-advanced-v4.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-enwiktionary-dict-advanced-v4/enwiktionary-dict-advanced-v4.zip"
+      }
+    },
+    {
+      "id": "enwiktionary_dict_full",
+      "name": "英维词典精选（完整）",
+      "name_en": "English Wiktionary Dictionary (Full)",
+      "description": "Complete English dictionary data for local word lookup — 857,190 lemma entries covering the full English Wiktionary with Chinese translations, pre-extracted by Wiktextract from the English Wiktionary 2026-08-05 dump (via kaikki.org). v4: inflection-only entries removed; inflected forms resolve to their lemma or fall back to AI",
+      "download_url": "enwiktionary-dict-full-v4.zip",
+      "size_mb": 55.02,
+      "entry_count": 857190,
+      "levels": [],
+      "version": "4.0",
+      "pack_kind": "dictionary",
+      "platform_download_urls": {
+        "github": "https://raw.githubusercontent.com/ruth-zhangx/mindivy-resources/main/dictionary/enwiktionary-dict-full-v4.zip",
+        "gitee": "https://gitee.com/ruth-zhangx/mindivy-resources/releases/download/wiki-enwiktionary-dict-full-v4/enwiktionary-dict-full-v4.zip"
+      }
+    }
+  ]
+}
